@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Felipe</h1>
-<h3 align="center">Python and PHP Developer</h3>
+<h3 align="center">Python Developer</h3>
 
 - 📝 My website: [www.liipeandre.com.br](www.liipeandre.com.br)
 
