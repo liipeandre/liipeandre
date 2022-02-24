@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Felipe</h1>
 <h3 align="center">Python Developer</h3>
 
-- 📝 My website: [www.liipeandre.com.br](www.liipeandre.com.br)
+- 📝 My website: <a href="https://www.liipeandre.com.br" target="blank"> **www.liipeandre.com.br** </a>
 
 - 📫 How to reach me: **andrefelipe.pereira@yahoo.com.br**
 
